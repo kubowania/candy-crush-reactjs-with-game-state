@@ -28,14 +28,14 @@ const ScoreBoard = ({score}) => {
 
     console.log(gameStates)
 
-    const saveData = async () => {
+    const saveData = () => {
 
         const data = {
             username: userName,
             score: score
         }
         axios.post('http://localhost:8000/addscore', data)
-            .then(response => {console.log(response)})
+            .then(response => console.log(response))
             .catch(err => console.log(err))
             .then(fetchData)
     }
