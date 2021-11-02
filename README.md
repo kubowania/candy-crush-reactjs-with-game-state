@@ -1,6 +1,6 @@
 # Candy Crush In React
 
-This project is in support of the video tutorials found [here for Part 1](https://www.youtube.com/watch?v=PBrEq9Wd6_U) and Part 2 coming soon. In Part 1 we creact the ReactJS game, and in Part 2 we connect to a database in order to be able to save highscores.
+This project is in support of the video tutorials found [here for Part 1](https://www.youtube.com/watch?v=PBrEq9Wd6_U) and Part 2 coming soon. In Part 1 we create the ReactJS game, and in Part 2 we connect to a database in order to be able to save highscores.
 
 ## To start this project
 
